@@ -111,7 +111,7 @@ function mastak_register_theme_options_metabox() {
 	 */
 	$cmb_options = new_cmb2_box(array(
 		'id'           => $prefix . 'page',
-		'title'        => esc_html__('НСТРОЙКИ ТЕМЫ KRASNAGORKA', 'krasnagorka'),
+		'title'        => esc_html__('метаданные магазина', 'krasnagorka'),
 		'object_types' => array('options-page'),
 
 		/*
