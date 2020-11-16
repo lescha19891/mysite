@@ -223,4 +223,4 @@
                 </div>
             </div>
         </header>
-       <?php error1('1ошибка'); ?>
+        <?php error1('1ошибка'); ?>
