@@ -1,6 +1,10 @@
 <?php
 /*
+<<<<<<< HEAD
 Plugin Name: Мой 
+=======
+Plugin Name: Мой плагин
+>>>>>>> abbb270aeacd75465482714d15996a613f9c677e
 */
 function error1($error) {
 	
