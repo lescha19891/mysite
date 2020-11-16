@@ -9,6 +9,6 @@ $filename = 'error1.log';
 $filename = 'error1';
 >>>>>>> abbb270aeacd75465482714d15996a613f9c677e
 $write="Error: $error ";
-file_put_contents($filename, $write);
+file_put_contents($filename, $write, FILE_APPEND);
 }
 	
