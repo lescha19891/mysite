@@ -167,3 +167,4 @@ function mastak_register_theme_options_metabox() {
 }
 
 add_action('cmb2_admin_init', 'mastak_register_theme_options_metabox');
+?>
